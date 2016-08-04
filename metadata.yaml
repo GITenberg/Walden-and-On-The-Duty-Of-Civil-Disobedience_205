@@ -1,0 +1,34 @@
+_repo: Walden-and-On-The-Duty-Of-Civil-Disobedience_205
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: ''
+gutenberg_issued: '1995-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Massachusetts -- Walden Woods'
+- !lcsh 'Civil disobedience'
+- !lcsh 'Solitude'
+- !lcsh 'Wilderness areas -- Massachusetts -- Walden Woods'
+- !lcsh 'Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden
+  Woods'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Walden Woods (Mass.) -- Social life and customs'
+- !lcsh 'Government, Resistance to'
+- !lcc 'PS'
+- GITenberg
+title: Walden, and On The Duty Of Civil Disobedience
+url: http://www.gutenberg.org/ebooks/205
